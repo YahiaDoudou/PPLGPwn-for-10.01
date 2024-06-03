@@ -71,7 +71,7 @@ Secondly, after you jailbreak your own TV (ironic on how we use a jailbroken TV 
 cd /media/internal/downloads
 wget https://github.com/YahiaDoudou/PPLGPwn-for-10.01/archive/refs/heads/main.zip
 unzip main.zip
-PPLGPwn-for-10.01-main
+cd PPLGPwn-for-10.01-main
 chmod +x ./start.sh
 ./start.sh
 ```
