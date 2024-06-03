@@ -84,7 +84,7 @@ edit this file to make the script runs on boot
 3.
 insert this lines in the last line (or after sshd server right under the "fi" if you prefer) save and reboot
 ```
-cd /media/internal/downloads/PPLGPwn-main
+cd /media/internal/downloads/PPLGPwn-for-10.01-main
 ./start.sh
 ```
 if you prefer to start the exploit by pressing a key
