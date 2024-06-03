@@ -2,9 +2,9 @@ echo "PPLGPWN - Designed for lgwebtvs! Ported by Kodeine, with luv <3"
 echo "Updated by llbranco"
 interface=eth0
 firmware=1001
-stage1=/media/internal/downloads/PPLGPwn-main/stage1.bin
-stage2=/media/internal/downloads/PPLGPwn-main/stage2.bin
-cd /media/internal/downloads/PPLGPwn-main
+stage1=/media/internal/downloads/PPLGPwn-for-10.01-main/stage1.bin
+stage2=/media/internal/downloads/PPLGPwn-for-10.01-main/stage2.bin
+cd /media/internal/downloads/PPLGPwn-for-10.01-main
 chmod +x ./pppwn
 
 # send nofification
